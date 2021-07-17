@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/jenslys?template=classic&base.community=0&pagespeed=1&languages=1&isocalendar=1&lines=1&projects=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&projects.limit=10&projects.descriptions=false&pagespeed.url=lystad.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FNorway)
+![Metrics](https://github.com/jenslys/jenslys/blob/main/github-metrics.svg)
