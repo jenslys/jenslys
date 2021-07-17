@@ -31,6 +31,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: lystad.io
+          plugin_pagespeed_url: https://lystad.io/
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_projects: yes
           plugin_projects_limit: 10
