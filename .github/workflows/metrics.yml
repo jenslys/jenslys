@@ -20,15 +20,6 @@ jobs:
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: Europe/Norway
-          plugin_isocalendar: no
-          plugin_isocalendar_duration: half-year
-          plugin_languages: no
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent.days: 14
-          plugin_languages_recent.load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://lystad.io/
