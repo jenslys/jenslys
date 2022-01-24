@@ -22,7 +22,7 @@ jobs:
           config_timezone: Europe/Norway
           plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_recent.days: 14
